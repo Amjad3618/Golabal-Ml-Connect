@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:global_ml_connect/screens/home_screen.dart';
+import 'package:global_ml_connect/screens/side_bar_devider/home_screen.dart';
 
-import '../widgets/custome__auth_form.dart';
+import '../../widgets/custome__auth_form.dart';
 import 'singup_screen.dart';
 // Import your custom text field widgets file
 // import 'custom_text_fields.dart';

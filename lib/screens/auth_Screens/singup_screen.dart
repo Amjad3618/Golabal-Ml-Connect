@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../widgets/custome__auth_form.dart';
+import '../../widgets/custome__auth_form.dart';
 // Import your custom text field widgets file
 // import 'custom_text_fields.dart';
 

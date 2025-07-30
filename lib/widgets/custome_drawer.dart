@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:global_ml_connect/screens/dashboard_screen.dart';
+import 'package:global_ml_connect/screens/dashboard_screens/dashboard_screen.dart';
 
-import 'package:global_ml_connect/screens/settings_screen.dart';
-import '../screens/kyc_screen.dart';
+import 'package:global_ml_connect/screens/setting_screens/settings_screen.dart';
+import '../screens/kyc_screens/kyc_screen.dart';
 
 class CustomDrawer extends StatelessWidget {
   final Function(Widget) onItemSelected;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../widgets/custome_drawer.dart';
-import 'package:global_ml_connect/screens/dashboard_screen.dart';
+import '../../widgets/custome_drawer.dart';
+import 'package:global_ml_connect/screens/dashboard_screens/dashboard_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

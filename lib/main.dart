@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:global_ml_connect/screens/login_screen.dart';
+import 'package:global_ml_connect/screens/auth_Screens/login_screen.dart';
 
 void main() {
   runApp(const MyApp());
